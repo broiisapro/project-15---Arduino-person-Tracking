@@ -80,3 +80,5 @@ Real-time Updates:
 
 The webcam feed is continuously displayed, with a bounding box around the detected object and its center marked with a dot.
 The system updates the servo positions in real-time to keep the object centered in the camera view.
+
+readme made with AI assistance
